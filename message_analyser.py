@@ -2,7 +2,7 @@
 # The program will analise any message that we enter. - how long is the message and weather or not it contains
 # the most common letter in the English language (the letter "e").
 
-# Message  analyzer
+# Message  analyser
 # len() function and the in operator
 
 message = input("Enter a message:")
