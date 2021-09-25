@@ -1,8 +1,7 @@
 # Is Your Number a Prime Number
 # This simple program will check if a number entered by a user is a prime number
 
-number = int(input())
-is_prime = True
+number = int(input("Enter a number: "))
 
 if number > 1:
     for i in range(2, number):
@@ -11,7 +10,4 @@ if number > 1:
             break
     else:
         print('Prime')
-
-else:
-    print("Not Prime")
 
