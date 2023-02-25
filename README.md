@@ -1,4 +1,4 @@
-# Mini Python Programs
+# Mini Python Programs 🐍
 
 ### Simple beginner Python programs
 
